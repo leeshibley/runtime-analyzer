@@ -1,5 +1,5 @@
 # Runtime Analyzer 
-A Python project to analyze the runtime of various sorting algorithms. Uses recursion, object-oriented programming, and the following self-implemented sorting algorithms:
+A Python project to analyze the runtime of various sorting algorithms. Uses recursion & object-oriented programming to analyze performance of the following self-implemented sorting algorithms:
 * Bubble sort
 * Selection sort
 * Insertion sort
