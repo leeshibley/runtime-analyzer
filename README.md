@@ -14,3 +14,12 @@ A Python project to analyze the runtime of various sorting algorithms. Uses recu
 * Calculate and display the time it took to run the function
 * Allow for multiple runs
 * Write results to file
+
+### To Use:
+In a Bash terminal, enter the following commands:
+
+`git clone https://github.com/leeshibley/runtime-analyzer.git`
+
+`cd runtime-analyzer`
+
+`python runtime-analyzer.py`
