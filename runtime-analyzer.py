@@ -58,3 +58,5 @@ t_quicksort_1 = time.time()
 
 quicksort_time = t_quicksort_1 - t_quicksort_0
 print(f"Quick Sort ------- {round(quicksort_time, 4)} seconds")
+
+print("=" * 68, '\n')
