@@ -8,9 +8,9 @@ A Python project to analyze the runtime of various sorting algorithms. Uses recu
 
 ### Specifications:
 * Generate lists of random integers according to specifications (e.g., 10 or 1 million)
-* list size specified by user at runtime
+* List size specified by user at runtime
 * Range of integer values specified by user at runtime
-* Run the functions with generated list of integers
+* Run sorting algorithms on generated list of integers
 * Calculate and display the time it took to run the function
 * Allow for multiple runs
 * Write results to file
